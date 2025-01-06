@@ -3,7 +3,8 @@
 ## Project Overview
 
 ## Tools and Technologies  
-- **Database Management System:** PostgreSQL  
+- __Query Language:__ SQL
+- __Database Management System:__ PostgreSQL
 
 
 ## Key Features of the project
