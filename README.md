@@ -1,7 +1,11 @@
 # Employee-Insights-and-HR-Analytics
 
 ## Project Overview
-This project includes SQL based analysis of employee data related to workforce dynamics such as retention rates, demographic distributions and employees survey. The queries focuses on  key HR metrics of the employee lifecycle, including joining and exit trends, salary distributions, and retention rates across different age groups and job levels.
+This project involves SQL-based analysis of employee data from an organization spanning from 2009 to 2022, focusing on key workforce dynamics such as retention rates, demographic distributions, and employee surveys. The queries emphasize key HR metrics across the employee lifecycle, including joining and exit trends, salary distributions, retention rates across different age groups and job levels, as well as employee feedback to support data-driven HR decision-making.
+
+
+
+
 ## Tools and Technologies  
 - __Query Language:__ SQL
 - __Database Management System:__ PostgreSQL
