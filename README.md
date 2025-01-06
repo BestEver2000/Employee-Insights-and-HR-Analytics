@@ -2,6 +2,9 @@
 
 ## Project Overview
 
+## Tools and Technologies  
+- **Database Management System:** PostgreSQL  
+
 
 ## Key Features of the project
 
