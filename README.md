@@ -36,3 +36,5 @@ __6. Departmental Breakdown:__
 __7. Retention and Exit Analysis:__
 - Computes retention rates across age groups.
 - Analyzes average tenure of exited employees by age group.
+
+## SQL Techniques Demonstrated
