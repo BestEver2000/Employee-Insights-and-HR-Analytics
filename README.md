@@ -1,7 +1,7 @@
 # Employee-Insights-and-HR-Analytics
 
 ## Project Overview
-This project involves SQL-based analysis of employee data from an organization spanning from 2009 to 2022, focusing on key workforce dynamics such as retention rates, demographic distributions, and employee surveys. The queries emphasize key HR metrics across the employee lifecycle, including joining and exit trends, salary distributions, retention rates across different age groups and job levels, as well as employee feedback to support data-driven HR decision-making.
+This project involves SQL-based analysis of employee data from an organization spanning from 2009 to 2022, focusing on key workforce dynamics such as retention rates, demographic distributions, and employee surveys. The queries emphasize key HR metrics across the employee lifecycle, including joining and exit trends, salary distributions, retention rates across different age groups and job levels, as well as employee feedback to support data-driven HR decision-making. The project addresses employee turnover by analyzing retention rates across departments, job roles, and age groups, while also utilizing employee survey data to assess overall satisfaction and engagement.
 
 
 ## Database Description
@@ -56,3 +56,6 @@ __7. Retention and Exit Analysis:__
   ![Description of the image](query3.png)
 - __CASE WHEN, conditional aggregation, retention rate, GROUP BY.__
   ![Description of the image](query4.png)
+
+
+## Conclusion
