@@ -11,7 +11,7 @@ Diversity: Contains demographic information about employees, such as race, gende
 Survey: Contains survey responses from active employees within the organization.
 
 ## Data Structure
-
+![Description of the image](ERD.png)
 
 ## Tools and Technologies  
 - __Query Language:__ SQL
