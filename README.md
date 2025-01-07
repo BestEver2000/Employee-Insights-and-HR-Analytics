@@ -49,6 +49,10 @@ __7. Retention and Exit Analysis:__
 
 ## SQL Techniques Demonstrated
 - JUSTIFY_INTERVAL, AVG, COUNT, GROUP BY, ORDER BY.
+  ![Description of the image](query1.png)
 - date_part, COUNT, GROUP BY, ORDER BY.
+  ![Description of the image](query2.png)
 - JOIN, window functions, PARTITION BY, percentage calculation.
+  ![Description of the image](query3.png)
 - CASE WHEN, conditional aggregation, retention rate, GROUP BY.
+  ![Description of the image](query4.png)
