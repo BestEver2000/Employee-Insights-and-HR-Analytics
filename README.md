@@ -48,11 +48,11 @@ __7. Retention and Exit Analysis:__
 - Analyzes average tenure of exited employees by age group.
 
 ## SQL Techniques Demonstrated
-- JUSTIFY_INTERVAL, AVG, COUNT, GROUP BY, ORDER BY.
+- __JUSTIFY_INTERVAL, AVG, COUNT, GROUP BY, ORDER BY.__
   ![Description of the image](query1.png)
-- date_part, COUNT, GROUP BY, ORDER BY.
+- __date_part, COUNT, GROUP BY, ORDER BY.__
   ![Description of the image](query2.png)
-- JOIN, window functions, PARTITION BY, percentage calculation.
+- __JOIN, window functions, PARTITION BY, percentage calculation.__
   ![Description of the image](query3.png)
-- CASE WHEN, conditional aggregation, retention rate, GROUP BY.
+- __CASE WHEN, conditional aggregation, retention rate, GROUP BY.__
   ![Description of the image](query4.png)
