@@ -4,6 +4,13 @@
 This project involves SQL-based analysis of employee data from an organization spanning from 2009 to 2022, focusing on key workforce dynamics such as retention rates, demographic distributions, and employee surveys. The queries emphasize key HR metrics across the employee lifecycle, including joining and exit trends, salary distributions, retention rates across different age groups and job levels, as well as employee feedback to support data-driven HR decision-making.
 
 
+## Database Description
+The database consists of three tables:
+Employee: Contains information about employees, including their ID, joining date, job title, exit date, and other relevant details.
+Diversity: Contains demographic information about employees, such as race, gender, and other diversity-related data.
+Survey: Contains survey responses from active employees within the organization.
+
+## Data Structure
 
 
 ## Tools and Technologies  
