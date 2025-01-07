@@ -6,9 +6,10 @@ This project involves SQL-based analysis of employee data from an organization s
 
 ## Database Description
 The database consists of three tables:
-Employee: Contains information about employees, including their ID, joining date, job title, exit date, and other relevant details.
-Diversity: Contains demographic information about employees, such as race, gender, and other diversity-related data.
-Survey: Contains survey responses from active employees within the organization.
+
+__Employee__: Contains information about employees, including their ID, joining date, job title, exit date, and other relevant details.
+__Diversity__: Contains demographic information about employees, such as race, gender, and other diversity-related data.
+__Survey__: Contains survey responses from active employees within the organization.
 
 ## Data Structure
 ![Description of the image](ERD.png)
