@@ -59,3 +59,4 @@ __7. Retention and Exit Analysis:__
 
 
 ## Conclusion
+This project highlights SQL expertise by combining the analysis of employee data with survey feedback to gain insights into organizational dynamics. It provides a detailed view of retention patterns and their causes, identifies diversity gaps, and evaluates employee engagement through survey data to upport decision-making for organizational improvement.
